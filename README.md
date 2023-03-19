@@ -1,16 +1,6 @@
 # weather_counter_app
 
-A new Flutter project.
+A flutter project created for demo purpose. The task was to create a single page app with counter and weather data of dubai by mimicing the given screenshot.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/64694393/226158631-bbcc3cac-33f0-43a3-a3f6-7b29720bc99e.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
